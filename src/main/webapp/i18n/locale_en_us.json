@@ -97,7 +97,6 @@
   "Home.view.PreviousPasswordCanNotBeEmpty": "Previous password can not be empty.",
   "Home.view.NewPasswordCanNotBeEmpty": "New password can not be empty.",
   "Home.view.ConfirmationPasswordCanNotBeEmpty": "Confirmation can not be empty.",
-  "Professor": "teacher",
   "prof.view": "professor",
   "Home.view.ChangePassword": "Change password",
   "prof.view.Professor": "Professor",
@@ -107,5 +106,14 @@
   "aula.view.Aula": "Lesson",
   "campus.view.Campus": "Campus",
   "CampusCampus": "Campus",
-  "MateriasMateria": "Materials "
+  "MateriasMateria": "Materials ",
+  "HomeViewAdmin": "Admin",
+  "ConfiguracoesView": "Settings",
+  "Professor": " Professor",
+  "Aulas": " +Classes",
+  "Materias": " Raw",
+  "CampusViewCampus": "Campus",
+  "Campus": "Campus",
+  "Professor(a)": "P",
+  "Professor.a": "Professor(the)"
 }

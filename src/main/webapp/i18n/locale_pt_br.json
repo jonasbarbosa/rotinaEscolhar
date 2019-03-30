@@ -97,7 +97,6 @@
   "Home.view.PreviousPasswordCanNotBeEmpty": "Senha anterior não pode estar vazio.",
   "Home.view.NewPasswordCanNotBeEmpty": "Nova senha não pode estar vazio.",
   "Home.view.ConfirmationPasswordCanNotBeEmpty": "Confirmação não pode estar vazio.",
-  "Professor": "Professor(a)",
   "prof.view": "professor",
   "Home.view.ChangePassword": "Mudar senha",
   "prof.view.Professor": "Professor",
@@ -107,5 +106,14 @@
   "aula.view.Aula": "Aula",
   "campus.view.Campus": "Campus",
   "CampusCampus": "Campus",
-  "MateriasMateria": "Materias "
+  "MateriasMateria": "Materias ",
+  "HomeViewAdmin": "Admin",
+  "ConfiguracoesView": "Configurações",
+  "Professor": "  Professor",
+  "Aulas": "   +Aulas",
+  "Materias": "   Matérias",
+  "CampusViewCampus": "Campus",
+  "Campus": "Campus",
+  "Professor(a)": "P",
+  "Professor.a": "Professor(a)"
 }
