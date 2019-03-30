@@ -105,5 +105,7 @@
   "materias.view.Materias": "Materias",
   "aula.view": "professor",
   "aula.view.Aula": "Aula",
-  "campus.view.Campus": "Campus"
+  "campus.view.Campus": "Campus",
+  "CampusCampus": "Campus",
+  "MateriasMateria": "Materias "
 }
