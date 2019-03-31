@@ -26,7 +26,6 @@
         "put": "authenticated",
         "delete": "authenticated"
       },
-      "generationType": "drop-and-create-tables",
       "attrs": {}
     },
     {
@@ -600,8 +599,8 @@
       ],
       "methods": [],
       "position": {
-        "x": 290,
-        "y": 62
+        "x": 292,
+        "y": 66
       },
       "size": {
         "width": 164.484375,

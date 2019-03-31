@@ -114,6 +114,7 @@
   "Materias": " Raw",
   "CampusViewCampus": "Campus",
   "Campus": "Campus",
-  "Professor(a)": "P",
-  "Professor.a": "Professor(the)"
+  "Professor.a": "Professor(the)",
+  "Professor(a)": "Teacher",
+  "Materia": "Matter"
 }
